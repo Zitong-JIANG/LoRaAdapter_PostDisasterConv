@@ -1,3 +1,6 @@
+You can use the model directly from HuggingFace: https://huggingface.co/Joaaaane
+
+
 ---
 library_name: transformers
 tags:
